@@ -29,3 +29,6 @@ Tableau: Data visualization and business intelligence software used to create th
 
 Netflix dataset: The dataset containing Netflix content information, utilized for the analysis and visualization.
 
+<img width="960" alt="Screenshot 2024-01-13 141800" src="https://github.com/PotlachervuSrilatha/Tableau_Projects/assets/97737090/aa83b837-2119-4841-abef-068ea7686880">
+
+
